@@ -1,0 +1,93 @@
+    /*导航*/
+    .BlogAnchor {
+        //background: #f1f1f1;
+        background: #ffffff;
+        //padding: 10px;
+        line-height: 180%;
+        position: fixed;
+        left: 0px;   // right: 48px;  
+        top: 0px;
+        border: 0px solid rgba(92,237,203,0.01);
+        width: 15em;
+		margin-left:12em;
+        height:100%;
+    }
+	
+	.AnchorContent{
+	background: #f1f1f1
+	}
+    .BlogAnchor p {
+        font-size: 18px;
+        color: #15a230;
+        margin: 0 0 0 0;
+        text-align: left;
+		background: #5cedcb;
+    }
+    .BlogAnchor .AnchorContent {
+        //padding: 5px 0px;
+        overflow: auto;
+
+    }
+    .BlogAnchor li{
+        text-indent: 0.5rem;
+        font-size: 14px;
+        list-style: none;
+    }
+    .BlogAnchor li .nav_item{
+        padding: 3px;
+    }
+    .BlogAnchor li .item_h1{
+        margin-left: 0rem;
+    }
+    .BlogAnchor li .item_h2{
+        margin-left: 2rem;
+        font-size: 0.8rem;
+    }
+
+    .BlogAnchor li .item_h3{
+        margin-left: 4rem;
+        font-size: 0.8rem;
+    }
+
+    .BlogAnchor li .item_h4{
+        margin-left: 5rem;
+        font-size: 0.8rem;
+    }
+
+    .BlogAnchor li .item_h5{
+        margin-left: 6rem;
+        font-size: 0.8rem;
+    }
+
+
+    .BlogAnchor li .item_h6{
+        margin-left: 7rem;
+        font-size: 0.8rem;
+    }
+
+    .BlogAnchor li .nav_item.current{
+        color: white;
+        background-color: #5cc26f;
+    }
+    #AnchorContentToggle {
+        font-size: 13px;
+        font-weight: normal;
+        color: #FFF;
+        display: inline-block;
+        line-height: 20px;
+        background: #5cedcb;
+        font-style: normal;
+        padding: 1px 8px;
+    }
+    .BlogAnchor a:hover {
+        color: #5cc26f;
+    }
+    .BlogAnchor a {
+        text-decoration: none;
+		color:#834fc6;
+    }
+	
+	    .BlogAnchor a {
+        text-decoration: none;
+		color:#834fc6;
+    }
