@@ -8,7 +8,7 @@ ZHTML
 
 <img src="../../zimage/test/systembar_hotspot_1.png">
 
-![systembar_hotspot_1](../../zimage/test/systembar_hotspot_1.png)
+![systembar_hotspot_1](../../zimage/test/systembar_hotspot_1.png)    ![systembar_hotspot_1](../../zimage/test/systembar_hotspot_1.png)
 
 
 
